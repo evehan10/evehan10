@@ -1,16 +1,25 @@
-## Hi there 👋
+## God dag
+---
+#### Mitt navn er Even.
+Jeg er en bare nokk en nerd på internettet.
 
-<!--
-**evehan10/evehan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+Interessene mine inkluderer:
+- Gaming
+- Maskineri
+- Programering
+- Spill utvikling
+- Militær kjøretøy
+- Fotografi
+- Model kits
+- Musikk og instumenter
+- Historie
 
-Here are some ideas to get you started:
+---
+Jeg går på IM (Informasjonsteknologi og Medieproduksjon)
+Personlig valgte jeg denne linja fordi jeg ville lære meg hvordan jeg bruker programmer som VS Code, forstå kode, og hvordan jeg kan skrive min egen kode. Medieproduksjonen var ikke noe jeg tenkte så veldig mye på, men det er mer som en cherry on top.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Jeg håper at i løpet av dette skoleåret så kommer jeg til å faktisk kunne kode selv. I tilleg kanskje bli litt bedre på å ta bilder og lage videoer.
+
+---
